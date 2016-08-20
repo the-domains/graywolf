@@ -1,0 +1,14 @@
+layout_spectrum: 0.9802867
+typography_spectrum: 0.2539124
+color:
+  saturation: 0.5205156
+  lightness: 0.7372324
+  brandStrength: 0.7867383
+  brandColors:
+    - '#2B2348'
+    - '#DFD0C9'
+    - '#D5777F'
+    - '#F2FCFE'
+    - '#837880'
+  rhythmicContrast: 0.5770609
+name: Gray wolf
